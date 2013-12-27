@@ -95,20 +95,7 @@ var CKBUILDER_CONFIG = {
 		'richcombo' : 1,
 		'listblock' : 1,
 		'indent' : 1,
-		'menubutton' : 1,
-		'autogrow' : 1,
-		'bbcode' : 1,
-		'devtools' : 1,
-		'docprops' : 1,
-		'iframedialog' : 1,
-		'lineutils' : 1,
-		'widget' : 1,
-		'placeholder' : 1,
-		'stylesheetparser' : 1,
-		'tableresize' : 1,
-		'uicolor' : 1,
-		'xml' : 1,
-		'ajax' : 1
+		'menubutton' : 1
 	},
 	languages : {
 		'af' : 1,
