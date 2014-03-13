@@ -43,7 +43,7 @@ CKEDITOR.plugins.add( 'bongo',
             return {
                 title : 'Info fields',
                 minWidth : 300,
-                minHeight : 200,
+                minHeight : 300,
 
                 contents :
                 [{
