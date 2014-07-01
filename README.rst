@@ -1,3 +1,6 @@
+Custom CKEditor
+
+
 Django CKEditor
 ================
 **Django admin CKEditor integration.**
